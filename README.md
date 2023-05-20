@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Aditya Vikram Singh Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.essentiallysports.com%2Fufc-news-people-forget-about-my-kickboxing-israel-adesanya-on-fighting-in-a-smaller-cage%2F&psig=AOvVaw0V_fmJjrhpT-nz1ZNG_bsw&ust=1684700643480000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCokI3dhP8CFQAAAAAdAAAAABAE)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
