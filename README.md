@@ -35,11 +35,17 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andrew95496&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andrew95496&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Reading List
+
+<ul>
+    <li><a href="https://www.amazon.com/Black-Rednecks-Liberals-Thomas-Sowell/dp/1594031436">Black Rednecks and White Liberals</a></li>
+    <li><a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359/ref=sr_1_1?keywords=fluent+python&qid=1684615581&s=books&sprefix=fluent%2Cstripbooks%2C110&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc">Fluent Python</a></li>
+    <li><a href="https://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1492055026/ref=sr_1_1?crid=3DRYS51D7BUJ8&keywords=high+performance+python&qid=1684615606&s=books&sprefix=high+performance+pytho%2Cstripbooks%2C118&sr=1-1">High Performance Python</a></li>
+</ul>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
