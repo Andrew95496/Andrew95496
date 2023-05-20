@@ -38,7 +38,7 @@
 </a>
 </p>
 
-### Reading List
+### 📖 Reading List
 
 <ul>
     <li><a href="https://www.amazon.com/Black-Rednecks-Liberals-Thomas-Sowell/dp/1594031436">Black Rednecks and White Liberals</a></li>
