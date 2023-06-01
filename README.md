@@ -6,13 +6,13 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently working as an Inventroy Analysist/ Specialist.\
-🌱 &nbsp;I'm currently learning React with TypeScript.\
+🌱 &nbsp;I'm currently learning React with TypeScript and Web3.0 Development.\
 ✍️ &nbsp;In my free time, I work on Jiu Jistics bringing Advanced Analytics to jiu jitsu and Blockchain technology.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at andrewcleacock@gmail.com! I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="chain" src="http://bit.ly/2DSMAAG" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -42,6 +42,7 @@
 
 <ul>
     <li><a href="https://www.amazon.com/Black-Rednecks-Liberals-Thomas-Sowell/dp/1594031436">Black Rednecks and White Liberals</a></li>
+  <li><a href="https://www.amazon.com/Mastering-Blockchain-Cryptocurrencies-Decentralized-Applications/dp/1492054704">Mastering Blockchain</a></li>
     <li><a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359/ref=sr_1_1?keywords=fluent+python&qid=1684615581&s=books&sprefix=fluent%2Cstripbooks%2C110&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc">Fluent Python</a></li>
     <li><a href="https://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1492055026/ref=sr_1_1?crid=3DRYS51D7BUJ8&keywords=high+performance+python&qid=1684615606&s=books&sprefix=high+performance+pytho%2Cstripbooks%2C118&sr=1-1">High Performance Python</a></li>
   <li><a href="https://www.amazon.com/Homo-Deus-Yuval-Noah-Harari-audiobook/dp/B01MYZ4OUW/ref=sr_1_1?keywords=homo+deus+book&qid=1684615634&s=books&sprefix=homo%2Cstripbooks%2C110&sr=1-1">Homo Deus</a></li>
