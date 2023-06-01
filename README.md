@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at andrewcleacock@gmail.com! I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="chain" src="http://bit.ly/2DSMAAG" align="right"/>
+<img alt="chain" src="https://media3.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif?cid=ecf05e47tc8b5x8db52v49l1uszanw540p5dxsjfpdy78mas&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
