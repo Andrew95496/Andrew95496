@@ -41,7 +41,7 @@
 ### 📖 Reading List
 
 <ul>
-<!--   <li><a href="https://www.amazon.com/Mastering-Blockchain-Cryptocurrencies-Decentralized-Applications/dp/1492054704">Mastering Blockchain</a></li> -->
+<li><a href="[https://www.amazon.com/Mastering-Blockchain-Cryptocurrencies-Decentralized-Applications/dp/1492054704](https://www.amazon.com/Effective-Pandas-Patterns-Manipulation-Treading/dp/B09MYXXSFM)">Effective Pandas</a></li>
     <li><a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359/ref=sr_1_1?keywords=fluent+python&qid=1684615581&s=books&sprefix=fluent%2Cstripbooks%2C110&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc">Fluent Python</a></li>
   <li><a href="https://www.amazon.com/Divine-Comedy-Inferno-Purgatorio-Paradiso/dp/0451208633](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/ref=sr_1_1?hvadid=570455891700&hvdev=c&hvlocphy=9011973&hvnetw=g&hvqmt=e&hvrand=961250693876312255&hvtargid=kwd-570869901&hydadcr=7113_13207457&keywords=g%C3%B6del+escher+bach&qid=1685895238&sr=8-1)">Gödel, Escher, Bach</a></li>
 </ul>
