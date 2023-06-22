@@ -41,7 +41,7 @@
 ### 📖 Reading List
 
 <ul>
-<li><a href="https://www.amazon.com/Effective-Pandas-Patterns-Manipulation-Treading/dp/B09MYXXSFM" target='blank' >Effective Pandas</a></li>
+<li><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/B002JFZUNG/ref=sr_1_2?hvadid=616862899347&hvdev=c&hvlocphy=9011973&hvnetw=g&hvqmt=e&hvrand=10448250524907794967&hvtargid=kwd-10954971491&hydadcr=24632_13611814&keywords=%27guns+germs+and+steel%27&qid=1687395341&sr=8-2" target='blank' >Guns, Germs, and Steel: The Fates of Human Societies</a></li>
     <li><a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359/ref=sr_1_1?keywords=fluent+python&qid=1684615581&s=books&sprefix=fluent%2Cstripbooks%2C110&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc" target='blank' >Fluent Python</a></li>
   <li><a href="https://www.amazon.com/Divine-Comedy-Inferno-Purgatorio-Paradiso/dp/0451208633](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/ref=sr_1_1?hvadid=570455891700&hvdev=c&hvlocphy=9011973&hvnetw=g&hvqmt=e&hvrand=961250693876312255&hvtargid=kwd-570869901&hydadcr=7113_13207457&keywords=g%C3%B6del+escher+bach&qid=1685895238&sr=8-1)" target='blank' >Gödel, Escher, Bach</a></li>
 </ul>
