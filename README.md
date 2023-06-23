@@ -43,7 +43,7 @@
 <ul>
 <li><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/B002JFZUNG/ref=sr_1_2?hvadid=616862899347&hvdev=c&hvlocphy=9011973&hvnetw=g&hvqmt=e&hvrand=10448250524907794967&hvtargid=kwd-10954971491&hydadcr=24632_13611814&keywords=%27guns+germs+and+steel%27&qid=1687395341&sr=8-2" target='blank' >Guns, Germs, and Steel: The Fates of Human Societies</a></li>
 <li><a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359/ref=sr_1_1?keywords=fluent+python&qid=1684615581&s=books&sprefix=fluent%2Cstripbooks%2C110&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc" target='blank' >Fluent Python</a></li>
-<li><a href="amazon.com/Books-Enoch-Watchers-Extensive-Commentary/dp/1936533073/ref=sr_1_23?crid=1BUX4X2XHFQTI&keywords=the+book+of+enoch&qid=1687395503&sprefix=the+book+of+enoch%2Caps%2C134&sr=8-23" target='blank' >The Books of Enoch</a></li>
+<li><a href="[amazon.com/Books-Enoch-Watchers-Extensive-Commentary/dp/1936533073/ref=sr_1_23?crid=1BUX4X2XHFQTI&keywords=the+book+of+enoch&qid=1687395503&sprefix=the+book+of+enoch%2Caps%2C134&sr=8-23](https://www.amazon.com/Art-War-Sun-Tzu/dp/081331951X/ref=asc_df_081331951X/?tag=hyprod-20&linkCode=df0&hvadid=312021238077&hvpos=&hvnetw=g&hvrand=13239395154045643397&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011973&hvtargid=pla-517950324684&psc=1)" target='blank' >The Art of War</a></li>
 </ul>
 
 ### 🤝🏻 &nbsp;Connect with Me
