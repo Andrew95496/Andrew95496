@@ -7,8 +7,8 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently working as an Inventroy Analysist/ Specialist.\
-🌱 &nbsp;I'm currently learning React with TypeScript and Web3.0 Development.\
-✍️ &nbsp;In my free time, I work on Jiu Jistics bringing Advanced Analytics to jiu jitsu and Blockchain technology.\
+🌱 &nbsp;I'm currently learning Django and API creatation.\
+✍️ &nbsp;In my free time, I work on Jiu Jistics bringing Advanced Analytics to jiu jitsu and APIs.\
 ✉️ &nbsp;You can shoot me an email at andrewcleacock@gmail.com! I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
