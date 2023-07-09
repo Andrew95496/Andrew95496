@@ -3,7 +3,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently working as an Inventroy Analysist/ Specialist.\
 🌱 &nbsp;I'm currently learning Django and API creatation.\
