@@ -42,10 +42,10 @@
 
 <ul>
 <li><a href="#" target='blank' >Wealth of Nations</a></li>
-<li><a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359/ref=sr_1_1?keywords=fluent+python&qid=1684615581&s=books&sprefix=fluent%2Cstripbooks%2C110&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc" target='blank' >Fluent Python</a></li>
+<li><a href="#" target='blank' >Fluent Python</a></li>
 <li><a href="#" target='blank' >The Book of Enoch</a></li>
-<li><a href="https://www.amazon.com/Iliad-Odyssey-Barnes-Collectible-Editions/dp/1435167945/ref=asc_df_1435167945/?tag=hyprod-20&linkCode=df0&hvadid=344109171044&hvpos=&hvnetw=g&hvrand=4139371715413446679&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011973&hvtargid=pla-744697650864&psc=1&tag=&ref=&adgrpid=69543897832&hvpone=&hvptwo=&hvadid=344109171044&hvpos=&hvnetw=g&hvrand=4139371715413446679&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011973&hvtargid=pla-744697650864" target='blank' >The Iliad & The Odyssey</a></li>
-<li><a href="#">When Einstein Walked with Godel</a> [ Audiobook ]</li>
+<li><a href="#" target='blank' >The Iliad & The Odyssey</a></li>
+<li><a href="#" target='blank  >When Einstein Walked with Godel</a> [ Audiobook ]</li>
 </ul>
 
 ### 🤝🏻 &nbsp;Connect with Me
