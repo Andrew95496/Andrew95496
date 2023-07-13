@@ -44,7 +44,6 @@
 <li><a href="#" target='blank' >Wealth of Nations</a></li>
 <li><a href="#" target='blank' >Fluent Python</a></li>
 <li><a href="#" target='blank' >The Book of Enoch</a></li>
-<!-- <li><a href="#" target='blank' >The Iliad & The Odyssey</a></li> -->
 <li><a href="#" target='blank  >When Einstein Walked with Godel</a> [ Audiobook ]</li>
 </ul>
 
