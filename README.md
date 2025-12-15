@@ -3,12 +3,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+💡 I work in Data Intelligence, using data and analytics to support operational decision-making in inventory and replenishment.  
+🌱 I’m developing skills in Python, pandas, SQL, and APIs with a long-term focus on analytics and data engineering.  
+✍️ Outside of work, I build side projects that apply forecasting and advanced analytics to practical problems, including Jiu Jitsu performance analysis.  
+✉️ You can reach me at **andrewcleacock@gmail.com**.
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently working as an Inventroy Analysist/ Specialist.\
-🌱 &nbsp;I'm currently learning Django and API creatation.\
-✍️ &nbsp;In my free time, I work on Jiu Jistics bringing Advanced Analytics to jiu jitsu and APIs.\
-✉️ &nbsp;You can shoot me an email at andrewcleacock@gmail.com! I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 <img alt="chain" src="https://media1.giphy.com/media/ZL9ULCUdNjOPapnq0N/giphy.gif?cid=ecf05e47zsqjoqmd8wrl6uc7if61j4srvl9mwmfsxn7orc9o&ep=v1_gifs_related&rid=giphy.gif&ct=g" align="right"/>
