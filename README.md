@@ -4,7 +4,7 @@
 
 I work in Data Intelligence, supporting operational decision making through data analysis, automation, and reporting. My work focuses on transforming raw operational data into structured, analytics ready datasets used for forecasting, inventory planning, and performance monitoring.
 
-My technical interests center on Python, SQL, and PostgreSQL, with an emphasis on building reliable data workflows and scalable data pipelines. I maintain side projects that apply data engineering and analytics principles to real world operational problems.
+My technical interests center on Python and PostgreSQL, with an emphasis on building reliable data workflows and scalable data pipelines. I maintain side projects that apply data engineering and analytics principles to real world operational problems.
 
 Contact: andrewcleacock@gmail.com
 
@@ -13,7 +13,6 @@ Contact: andrewcleacock@gmail.com
 ### Technical Stack
 
 Python  
-SQL  
 PostgreSQL  
 AWS
 
