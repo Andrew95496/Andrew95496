@@ -15,7 +15,6 @@ Contact: andrewcleacock@gmail.com
 Python  
 SQL  
 PostgreSQL  
-Snowflake
 AWS
 
 
