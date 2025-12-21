@@ -16,7 +16,6 @@ Python
 PostgreSQL  
 AWS
 
-
 ---
 
 ### GitHub Analytics
